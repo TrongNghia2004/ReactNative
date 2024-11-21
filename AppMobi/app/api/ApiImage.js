@@ -1,0 +1,1 @@
+export const ApiImage = "http://10.17.11.140:8000"
